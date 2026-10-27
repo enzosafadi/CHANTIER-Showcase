@@ -4,7 +4,13 @@ A simple job companion in development for independent painters, handymen and sma
 
 **Status: working local v1 prototype · fictional data · private implementation.**
 
-## Simple first\n\nThe default owner view is **Today · Jobs · Costs**. Add a job with three required fields, enter notes inside its job card and record solo expenses without a separate approver. Detailed crew and approval tools are optional.\n\nQuotes, accepted scope, customer balances, payment records and photo receipts are prioritized next; they are not implemented yet. [Research and usability direction](docs/simple-design.md).\n\n## What v1 demonstrates
+## Simple first
+
+The default owner view is **Today · Jobs · Money**. Add a job with three required fields, enter notes inside its job card and record solo expenses without a separate approver. Detailed crew and approval tools are optional.
+
+Quotes, manually recorded customer decisions, agreed extras, payment/refund/reversal records, remaining customer balances and validated local photo/receipt storage are implemented. These are local records; no actual payment is processed. [Research and usability direction](docs/simple-design.md).
+
+## What v1 demonstrates
 
 | Workspace | Working local capability |
 | --- | --- |
@@ -18,7 +24,7 @@ A simple job companion in development for independent painters, handymen and sma
 | Documents | Drawing/document reference and revision register |
 | Traceability | Transactional audit records, retry protection and verified recovery |
 
-The demonstration contains **4 projects, 6 work orders, 3 crews, 8 people and 4 scheduled visits**, with connected exceptions and pending reviews. **39 automated tests** validate workflows, booking concurrency, scoped records, approvals, costing, recovery and rendered forms.
+The default opt-in demonstration contains **4 fictional home jobs and 3 roster records**, with quotes, a deposit, a paid completed job, expenses and dates anchored to setup day. The private implementation documents **62 automated tests**; that count is its recorded development baseline, not a fresh execution during this documentation update.
 
 All operating records and outcomes are simulated. No client deployment, endorsement, measured time saving or profitability improvement is claimed.
 
@@ -31,7 +37,7 @@ CHANTIER is independent from PRAXIS — Business Process Optimization & Automati
 
 ## Current limits
 
-This is a local demonstration with a simulated actor selector. It is not authenticated login: anyone using the demo can select a manager. Secure accounts, production company isolation, stored photos/files, French translation, real-device visual validation, offline synchronization, billing/payments and store distribution remain outstanding.
+This is a local demonstration with a simulated actor selector. It is not authenticated login: anyone using the demo can select a manager. Secure accounts, production company isolation, hosted file access, French translation, real-device visual validation, offline synchronization, compliant invoicing, integrated payment processing and store distribution remain outstanding.
 
 Current documents are references rather than uploaded files. Internal budget decisions do not represent customer approvals. Remaining budget is not profit. No live SEAO integration or automated bid submission is implemented.
 
@@ -44,3 +50,9 @@ Application screenshots and the portfolio thumbnail are pending visual review; n
 This public repository contains presentation material only. Application code, detailed architecture, fixtures, internal rules and development tests remain private.
 
 Copyright © 2026. All rights reserved. No open-source licence or implementation rights are granted.
+
+## Who it benefits
+
+Independent painters, handymen and small renovation contractors, working alone or with a few helpers: a quick daily view of jobs, expenses, agreed work and recorded customer balances.
+
+These are intended users and benefits, not evidence of adoption or measured customer outcomes.
