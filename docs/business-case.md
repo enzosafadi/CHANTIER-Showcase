@@ -2,7 +2,7 @@
 
 ## Intended customer
 
-Plumbing and trade contractors managing both short service calls and multi-day projects. The product aims to connect office assignments with field progress, verified hours and job costs.
+Independent painters, handymen and small home-renovation contractors managing jobs such as house painting, drywall repairs and bathroom renovations. The product aims to connect office assignments with field progress, verified hours and job costs.
 
 No company is represented as an actual client, pilot participant or endorser.
 
@@ -14,7 +14,7 @@ No company is represented as an actual client, pilot participant or endorser.
 | What has the project cost? | Approved labour/material costs versus budget |
 | Is the work complete? | Completion submission and manager decision |
 
-## Validation before commercial use
+## Keep daily work short\n\nThe default view focuses on today, jobs and costs. Team controls are optional. Job entry uses three fields and carries the selected job into its updates. Solo owners do not need a fictitious second approver.\n\n## Validation before commercial use
 
 Confirm the buyer's present workflow and most costly exception. Measure schedule conflicts, missing updates, review delay, unresolved blockers and cost-record completeness against an agreed baseline.
 

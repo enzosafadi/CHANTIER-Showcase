@@ -1,10 +1,10 @@
 # CHANTIER — Contractor & Field Operations
 
-A standalone contractor operations product in development for plumbing and trade businesses.
+A simple job companion in development for independent painters, handymen and small home-renovation contractors, working alone or with a few helpers.
 
 **Status: working local v1 prototype · fictional data · private implementation.**
 
-## What v1 demonstrates
+## Simple first\n\nThe default owner view is **Today · Jobs · Costs**. Add a job with three required fields, enter notes inside its job card and record solo expenses without a separate approver. Detailed crew and approval tools are optional.\n\nQuotes, accepted scope, customer balances, payment records and photo receipts are prioritized next; they are not implemented yet. [Research and usability direction](docs/simple-design.md).\n\n## What v1 demonstrates
 
 | Workspace | Working local capability |
 | --- | --- |
@@ -18,7 +18,7 @@ A standalone contractor operations product in development for plumbing and trade
 | Documents | Drawing/document reference and revision register |
 | Traceability | Transactional audit records, retry protection and verified recovery |
 
-The demonstration contains **4 projects, 6 work orders, 3 crews, 8 people and 4 scheduled visits**, with connected exceptions and pending reviews. **33 automated tests** validate workflows, booking concurrency, scoped records, approvals, costing, recovery and rendered forms.
+The demonstration contains **4 projects, 6 work orders, 3 crews, 8 people and 4 scheduled visits**, with connected exceptions and pending reviews. **39 automated tests** validate workflows, booking concurrency, scoped records, approvals, costing, recovery and rendered forms.
 
 All operating records and outcomes are simulated. No client deployment, endorsement, measured time saving or profitability improvement is claimed.
 
