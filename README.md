@@ -1,5 +1,9 @@
 # CHANTIER — Contractor & Field Operations
 
+## Project roadmap — concept to sale
+
+![Current project timeline](docs/project-roadmap.svg)
+
 A simple job companion in development for independent painters, handymen and small home-renovation contractors, working alone or with a few helpers.
 
 **Status: working local v1 prototype · fictional data · private implementation.**
