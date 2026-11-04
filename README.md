@@ -60,3 +60,7 @@ Copyright © 2026. All rights reserved. No open-source licence or implementation
 Independent painters, handymen and small renovation contractors, working alone or with a few helpers: a quick daily view of jobs, expenses, agreed work and recorded customer balances.
 
 These are intended users and benefits, not evidence of adoption or measured customer outcomes.
+
+## Repository verification
+
+[Current scoped verification results](VERIFICATION.md). Run `python tools/verify_repository.py --visibility public`.
